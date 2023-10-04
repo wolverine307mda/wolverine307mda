@@ -1,4 +1,4 @@
-#HOLA SOY MARIO 
+<h1>HOLA SOY MARIO<h1> 
 - 👋 Hi, I’m @wolverine307mda
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Applications Development
