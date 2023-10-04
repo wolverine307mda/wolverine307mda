@@ -1,11 +1,8 @@
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
 <p align="center">
-    <a href="https://" target="_blank">
-      <img loading="lazy" style="border-radius: 0.25rem;" 
-        src="./images/banner.png](https://drive.google.com/file/d/1fl-8ql8H3ZjpG1pZd44kEBDoysT78iIv/view?usp=drive_link" alt="Logo" 
-        borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
-    </a>
-    </p>
-
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 - 👋 Hi, I’m @wolverine307mda
 - 👀 I’m interested in Programming
