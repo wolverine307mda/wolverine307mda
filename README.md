@@ -24,10 +24,14 @@ En resumen, soy un estudiante de desarrollo de aplicaciones web entusiasta y un 
 
 <h2>Frases iconicas de MARVEL</h2>
 
-- “La única manera de avanzar, es retrocediendo”
-- “Olvida el pasado, este es tu futuro”
-- "Podría estar haciendo esto todo el día"
-- “No tenemos porqué quedarnos aquí. Podemos ir adonde queramos”
-- “Todos pasamos por eso ¿cierto? Permitir que el miedo y la ira nos domine, ampliar adrede los límites del mundo falso que creamos”
-- “Yo no rompí sus reglas. Solo se doblegaron a mi poder”
-- “¿Qué es la pena sino amor perseverante?”
+ -  “La única manera de avanzar, es retrocediendo”
+ -  “Olvida el pasado, este es tu futuro”
+ -  "Podría estar haciendo esto todo el día"
+ -  “No tenemos porqué quedarnos aquí. Podemos ir adonde queramos”
+ -  “Todos pasamos por eso ¿cierto? Permitir que el miedo y la ira nos domine, ampliar adrede los límites del mundo falso que creamos”
+ -  “Yo no rompí sus reglas. Solo se doblegaron a mi poder”
+ -  “¿Qué es la pena sino amor perseverante?”
+
+<img src="./Imgs/pacman.gif" width=15% align=center />
+
+
