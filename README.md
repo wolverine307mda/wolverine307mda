@@ -32,6 +32,6 @@ En resumen, soy un estudiante de desarrollo de aplicaciones web entusiasta y un 
  -  “Yo no rompí sus reglas. Solo se doblegaron a mi poder”
  -  “¿Qué es la pena sino amor perseverante?”
 
-<img src="./Imgs/pacman.gif" width=15% align=center />
+<img src="./Imgs/pacman.gif" width=15% align=center /><img src="./Imgs/fanred.gif" width=15% align=center /><img src="./Imgs/fanblue.gif" width=15% align=center />
 
 
