@@ -20,4 +20,14 @@ como un verdadero friki de Marvel. Me fascina el UCM y cómo las diferentes pel�
 
 <img src="./Imgs/marvel_icon.png" width=20% align=right />
 
-En resumen, soy un estudiante de desarrollo de aplicaciones web entusiasta y un gran fanático del cine. Estoy emocionado por las oportunidades que el campo de la tecnología me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine y de Marvel.</p>
+En resumen, soy un estudiante de desarrollo de aplicaciones web entusiasta y un gran fanático del cine. Estoy emocionado por las oportunidades que el campo de la tecnología me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine y de Marvel.👊</p>
+
+<h2>Frases iconicas de MARVEL</h2>
+
+- “La única manera de avanzar, es retrocediendo”
+- “Olvida el pasado, este es tu futuro”
+- "Podría estar haciendo esto todo el día"
+- “No tenemos porqué quedarnos aquí. Podemos ir adonde queramos”
+- “Todos pasamos por eso ¿cierto? Permitir que el miedo y la ira nos domine, ampliar adrede los límites del mundo falso que creamos”
+- “Yo no rompí sus reglas. Solo se doblegaron a mi poder”
+- “¿Qué es la pena sino amor perseverante?”
