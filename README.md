@@ -18,7 +18,7 @@ Mi interés por el desarrollo de aplicaciones web surgió cuando descubrí la ca
 
 <img src="./Imgs/octogato.png" width=19% align=right />
 
-como un verdadero friki de Marvel. Me fascina el UCM y cómo las diferentes películas se conectan entre sí para crear una narrativa épica. Me encanta sumergirme en las historias de los superhéroes, sus poderes y los desafíos a los que se enfrentan.
+Como un verdadero friki de Marvel me fascina el UCM y cómo las diferentes películas se conectan entre sí para crear una narrativa épica. Me encanta sumergirme en las historias de los superhéroes, sus poderes y los desafíos a los que se enfrentan.
 
 En resumen, soy Mario, un estudiante de desarrollo de aplicaciones web entusiasta y un gran fanático del cine. Estoy emocionado por las oportunidades que el campo de la tecnología me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine y de Marvel.👊</p>
 
