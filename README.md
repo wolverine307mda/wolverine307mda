@@ -12,7 +12,7 @@
 </p>
 <img src="./Imgs/guiño.webp" width=15% align=left /><h1>¡Saludos✌️! Soy Mario de Domingo Álvarez 💥 </h1> 
 
-<p>¡Hola! Soy Mario, estudiante de desarrollo de aplicaciones web y un apasionado fanático del cine🎬, especialmente de Marvel. Me encanta la magia del cine y cómo las películas pueden transportarnos a mundos imaginarios y emocionantes.
+¡Hola! Soy Mario, estudiante de [**Desarrollo de Aplicaciones**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) y un apasionado fanático del cine🎬, especialmente de Marvel. Me encanta la magia del cine y cómo las películas pueden transportarnos a mundos imaginarios y emocionantes.
     
 Mi interés por el desarrollo de aplicaciones web surgió cuando descubrí la capacidad de utilizar la tecnología para crear experiencias interactivas y funcionales en línea. Como estudiante de desarrollo de aplicaciones web💻, me emociona la idea de combinar mi amor por el cine y Marvel con mis habilidades técnicas. Me inspira cómo Marvel ha utilizado la tecnología👨‍💻 para crear experiencias interactivas y emocionantes para los fanáticos, como aplicaciones móviles📱 y sitios web interactivos.
 
