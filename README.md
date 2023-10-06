@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
-<img src="./Imgs/guiño.webp" width=15% align=left /><h1>¡Saludos✌️! Soy Mario de Domingo Álvarez 💥 </h1> 
+<img src="./Imgs/guiño.webp" width=15% align=left /><h1>¡¡¡Saludos✌!!! Soy Mario de Domingo Álvarez 💥 </h1> 
 
 ¡Hola! Soy Mario, estudiante de [**Desarrollo de Aplicaciones**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) y un apasionado fanático del cine🎬, especialmente de Marvel. Me encanta la magia del cine y cómo las películas pueden transportarnos a mundos imaginarios y emocionantes.
     
