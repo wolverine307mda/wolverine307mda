@@ -56,7 +56,6 @@ En resumen, soy un estudiante de desarrollo de aplicaciones web entusiasta y un 
 Es importante destacar que no hay un consenso absoluto en la filosofía de las IA, y diferentes filósofos y académicos tienen diferentes puntos de vista sobre estos temas. La discusión y el debate continúan a medida que avanzamos en la comprensión y el desarrollo de las inteligencias artificiales.
 
 <p >
-    <img src="./Imgs/aleta.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+    <img src="./Imgs/fin.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
-
