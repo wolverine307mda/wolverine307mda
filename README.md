@@ -22,7 +22,16 @@ Como un verdadero friki de Marvel me fascina el UCM y cómo las diferentes pelí
 
 En resumen, soy Mario, un estudiante de desarrollo de aplicaciones web entusiasta y un gran fanático del cine. Estoy emocionado por las oportunidades que el campo de la tecnología me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine y de Marvel.👊</p>
 
+<p align="center">
+<img src="./Imgs/pacman.gif" width=5% align=center />
+<img src="./Imgs/fanred.gif" width=7% align=center />
+<img src="./Imgs/fanblue.gif" width=5% align=center />
+<img src="./Imgs/fanpurple.gif" width=5.5% align=center />
+</p>
+
 <h2>Frases iconicas de MARVEL</h2>
+
+<img src="./Imgs/marvel.png" width=13% align=left />
 
  -  “La única manera de avanzar, es retrocediendo”
  -  “Olvida el pasado, este es tu futuro”
@@ -32,12 +41,6 @@ En resumen, soy Mario, un estudiante de desarrollo de aplicaciones web entusiast
  -  “Yo no rompí sus reglas. Solo se doblegaron a mi poder”
  -  “¿Qué es la pena sino amor perseverante?”
 
-<p align="center">
-<img src="./Imgs/pacman.gif" width=5% align=center />
-<img src="./Imgs/fanred.gif" width=7% align=center />
-<img src="./Imgs/fanblue.gif" width=5% align=center />
-<img src="./Imgs/fanpurple.gif" width=5.5% align=center />
-</p>
 
 <h2>Que dice la Filosofía sobre las Inteligencias Artificiales</h2>
 
