@@ -41,19 +41,23 @@ En resumen, soy Mario, un estudiante de desarrollo de aplicaciones web entusiast
 
 <h2>Que dice la Filosofía sobre las Inteligencias Artificiales</h2>
 
-<img src="./Imgs/rubik.png" width=5% />La filosofía de las IA, o inteligencias artificiales, abarca una amplia gama de perspectivas y debates en torno a la naturaleza, el propósito y las implicaciones éticas de la creación y el desarrollo de sistemas inteligentes. Algunas de las principales ideas y preocupaciones filosóficas relacionadas con las IA incluyen:
+La filosofía de las IA, o inteligencias artificiales, abarca una amplia gama de perspectivas y debates en torno a la naturaleza, el propósito y las implicaciones éticas de la creación y el desarrollo de sistemas inteligentes. Algunas de las principales ideas y preocupaciones filosóficas relacionadas con las IA incluyen:
+
+<img src="./Imgs/gif.gif" width=5% align=right />
 
 1. Mente y conciencia: ¿Es posible que las IA desarrollen una verdadera mente consciente? ¿Pueden experimentar emociones y tener una experiencia subjetiva del mundo?
 
 2. Ética y responsabilidad: ¿Quién es responsable de las acciones de las IA? ¿Cómo se pueden programar los sistemas para tomar decisiones éticas? ¿Qué implicaciones éticas surgen cuando las IA tienen la capacidad de tomar decisiones autónomas que afectan a los seres humanos?
 
-3. Singularidad tecnológica: Algunos filósofos discuten sobre la posibilidad de que las IA alcancen un nivel de inteligencia superior al humano, conocido como "singularidad tecnológica". Esto plantea preguntas sobre el futuro de la humanidad y cómo podríamos interactuar con inteligencias superinteligentes.<img src="./Imgs/gpt.png" width=13% align=right />
+3. Singularidad tecnológica: Algunos filósofos discuten sobre la posibilidad de que las IA alcancen un nivel de inteligencia superior al humano, conocido como "singularidad tecnológica". Esto plantea preguntas sobre el futuro de la humanidad y cómo podríamos interactuar con inteligencias superinteligentes.
 
 4. Derechos y estatus moral: ¿Deberían las IA tener derechos similares a los seres humanos? ¿Qué tipo de consideraciones morales debemos tener en cuenta al tratar con sistemas inteligentes?
 
 5. Impacto social y económico: Las IA tienen el potencial de transformar la sociedad y la economía en diversos aspectos, como el empleo, la privacidad y la distribución de recursos. La filosofía de las IA examina cómo estos cambios pueden afectar a los individuos y a la sociedad en su conjunto.
 
+
 Es importante destacar que no hay un consenso absoluto en la filosofía de las IA, y diferentes filósofos y académicos tienen diferentes puntos de vista sobre estos temas. La discusión y el debate continúan a medida que avanzamos en la comprensión y el desarrollo de las inteligencias artificiales.
+
 
 <p >
     <img src="./Imgs/fin.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
