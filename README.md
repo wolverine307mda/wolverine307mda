@@ -72,7 +72,7 @@ Aparte de todo esto, algo que también me apasiona es La Música🎶, Puede hace
 
 Puede ser una forma de escapar de la realidad y sumergirnos en un mundo diferentes una fuente de entretenimiento y diversión, permitiéndome relajarme, bailar o simplemente disfrutar del momento, además, tiene la capacidad de unir a las personas puedo compartir mis canciones📀 favoritas♥️ con amigos🍻, asistir a conciertos o festivales donde disfrutar de la música en compañía de otros amantes de ella pudiendo crear vínculos siendo una forma de comunicación y conexión con los demás.
 
-estas son algunas de las canciones que mas estoy escuchando últimamente: 
+Estas son algunas de las canciones que mas estoy escuchando últimamente: 
 
 <p >
     <img src="./Imgs/spotify.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
