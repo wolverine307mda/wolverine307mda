@@ -16,7 +16,7 @@
     
 Mi interés por el desarrollo de aplicaciones web surgió cuando descubrí la capacidad de utilizar la tecnología para crear experiencias interactivas y funcionales en línea. Como estudiante de desarrollo de aplicaciones web💻, me emociona la idea de combinar mi amor por el cine y Marvel con mis habilidades técnicas. Me inspira cómo Marvel ha utilizado la tecnología👨‍💻 para crear experiencias interactivas y emocionantes para los fanáticos, como aplicaciones móviles📱 y sitios web interactivos.
 
-<img src="./Imgs/octogato.png" width=19% align=right />
+<img src="./Imgs/octogato.png" width=16% align=right />
 
 Como un verdadero friki de Marvel me fascina el UCM y cómo las diferentes películas se conectan entre sí para crear una narrativa épica. Me encanta sumergirme en las historias de los superhéroes, sus poderes y los desafíos a los que se enfrentan.
 
