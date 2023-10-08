@@ -30,7 +30,7 @@
 <img src="./Imgs/gif.gif" width=5% align=right />
 <img src="./Imgs/guiño.webp" width=15% align=left /><h1>¡¡¡Saludos✌!!! Soy Mario de Domingo Álvarez 💥 </h1> 
 
-¡Hola! Soy Mario, estudiante de [**Desarrollo de Aplicaciones**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) y un apasionado fanático del cine🎬, especialmente de Marvel. Me encanta la magia del cine y cómo las películas pueden transportarnos a mundos imaginarios y emocionantes.
+¡Hola! Soy Mario, estudiante de [**Desarrollo de Aplicaciones**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html), apasionado de la Música 🎵 y un fanático del cine🎬, especialmente de Marvel. Me encanta la magia del cine y cómo las películas pueden transportarnos a mundos imaginarios y emocionantes, y también, me fascina como la música es capaz de lograr que sintamos cosas indescriptibles.
 
 <img src="./Imgs/octogato.png" width=16% align=right />
     
@@ -47,9 +47,8 @@ En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todo
 <img src="./Imgs/fanpurple.gif" width=5.5% align=center />
 </p>
 
-<h2>Frases iconicas de MARVEL</h2><img src="./Imgs/marvel logo.jpg" width=16% align=right />
+<h1>Frases iconicas de MARVEL</h1><img src="./Imgs/marvel logo.jpg" width=16% align=right />
 
-<img src="./Imgs/marvel.png" width=14% align=left />
 
  -  “La única manera de avanzar, es retrocediendo”
  -  “Olvida el pasado, este es tu futuro”
@@ -62,5 +61,20 @@ En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todo
 
 <p >
     <img src="./Imgs/Universo_Marvel.webp" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+  </a>
+</p>
+
+<p>
+    <h1>La Música</h1>
+</p>
+
+Aparte de todo esto, algo que también me apasiona es La Música🎶, Puede hacernos sentir felices😁, tristes😭, nostálgicos😢 o emocionados🤗. Nos permite conectarnos con nuestras emociones y encontrar consuelo o alegría en ellas, estimula el cerebro🧠 y nos puede ayudar a sobrellevar situaciones altamente estresantes.
+
+Puede ser una forma de escapar de la realidad y sumergirnos en un mundo diferentes una fuente de entretenimiento y diversión, permitiéndome relajarme, bailar o simplemente disfrutar del momento, además, tiene la capacidad de unir a las personas puedo compartir mis canciones📀 favoritas♥️ con amigos🍻, asistir a conciertos o festivales donde disfrutar de la música en compañía de otros amantes de ella pudiendo crear vínculos siendo una forma de comunicación y conexión con los demás.
+
+estas son algunas de las canciones que mas estoy escuchando últimamente: 
+
+<p >
+    <img src="./Imgs/spotify.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
