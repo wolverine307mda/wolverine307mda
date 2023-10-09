@@ -1,5 +1,5 @@
 <p >
-    <img src="./Imgs/Logo.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+    <img src="./Imgs/logodaw.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
 
