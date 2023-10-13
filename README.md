@@ -36,16 +36,22 @@
     
 Mi interés por el desarrollo de aplicaciones web surgió cuando descubrí la capacidad de utilizar la tecnología para crear experiencias interactivas y funcionales en línea🌐. Como estudiante de desarrollo de aplicaciones web💻, me emociona la idea de combinar mi amor por el cine y Marvel con mis habilidades técnicas. Me inspira cómo Marvel ha utilizado la tecnología👨‍💻 para crear experiencias interactivas y emocionantes para los fanáticos🎞️, como aplicaciones móviles📱 y sitios web interactivos.
 
-Como un verdadero friki de Marvel me fascina el [**UCM**](marvel.com)🕸️ y cómo las diferentes películas se conectan📡 entre sí para crear una narrativa épica. Me encanta sumergirme en las historias de los superhéroes, sus poderes y los desafíos a los que se enfrentan🚀.
-
-En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) entusiasta en el entro de educacion superior [**IES Luis Vives**](https://www.iesluisvives.es/) en [**Leganes**](https://www.google.com/maps/place/Legan%C3%A9s,+Madrid/@40.3280856,-3.7661991,14z/data=!3m1!4b1!4m6!3m5!1s0xd418a1c0fc4eac9:0xd08f90220cc34cb!8m2!3d40.3319506!4d-3.7686545!16zL20vMDJ3MTU4?entry=ttu) y ademas soy un gran fanático del cine🍿. Estoy emocionado por las oportunidades que el campo de la tecnología🛰️ me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine📽️ y de Marvel.👊</p>
-
 <p align="center">
 <img src="./Imgs/pacman.gif" width=5% align=center />
 <img src="./Imgs/fanred.gif" width=7% align=center />
 <img src="./Imgs/fanblue.gif" width=5% align=center />
 <img src="./Imgs/fanpurple.gif" width=5.5% align=center />
 </p>
+
+Como un verdadero friki de Marvel me fascina el [**UCM**](marvel.com)🕸️ y cómo las diferentes películas se conectan📡 entre sí para crear una narrativa épica. Me encanta sumergirme en las historias de los superhéroes, sus poderes y los desafíos a los que se enfrentan🚀.
+
+En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) entusiasta en el entro de educacion superior [**IES Luis Vives**](https://www.iesluisvives.es/) en [**Leganes**](https://www.google.com/maps/place/Legan%C3%A9s,+Madrid/@40.3280856,-3.7661991,14z/data=!3m1!4b1!4m6!3m5!1s0xd418a1c0fc4eac9:0xd08f90220cc34cb!8m2!3d40.3319506!4d-3.7686545!16zL20vMDJ3MTU4?entry=ttu) y ademas soy un gran fanático del cine🍿. Estoy emocionado por las oportunidades que el campo de la tecnología🛰️ me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine📽️ y de Marvel.👊</p>
+
+
+<p align=center>
+    <img src="./Imgs/Logo Blanco.png" width=50%/>
+</p>
+
 
 <h1>Frases iconicas de MARVEL</h1><img src="./Imgs/marvel logo.jpg" width=16% align=right />
 
@@ -78,3 +84,5 @@ Estas son algunas de las canciones que mas estoy escuchando últimamente:
     <img src="./Imgs/spotify.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
   </a>
 </p>
+
+
