@@ -51,38 +51,3 @@ En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todo
 <p align=center>
     <img src="./Imgs/Logo Blanco.png" width=50%/>
 </p>
-
-
-<h1>Frases iconicas de MARVEL</h1><img src="./Imgs/marvel logo.jpg" width=16% align=right />
-
-
- -  “La única manera de avanzar, es retrocediendo”
- -  “Olvida el pasado, este es tu futuro”
- -  "Podría estar haciendo esto todo el día"
- -  “No tenemos porqué quedarnos aquí. Podemos ir adonde queramos”
- -  “Todos pasamos por eso ¿cierto? Permitir que el miedo y la ira nos domine, ampliar adrede los límites del mundo falso que creamos”
- -  “Yo no rompí sus reglas. Solo se doblegaron a mi poder”
- -  “¿Qué es la pena sino amor perseverante?”
-
-
-<p >
-    <img src="./Imgs/Universo_Marvel.webp" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
-  </a>
-</p>
-
-<p>
-    <h1>La Música</h1>
-</p>
-
-Aparte de todo esto, algo que también me apasiona es La Música🎶, Puede hacernos sentir felices😁, tristes😭, nostálgicos😢 o emocionados🤗. Nos permite conectarnos con nuestras emociones y encontrar consuelo o alegría en ellas, estimula el cerebro🧠 y nos puede ayudar a sobrellevar situaciones altamente estresantes.
-
-Puede ser una forma de escapar de la realidad y sumergirnos en un mundo diferentes una fuente de entretenimiento y diversión, permitiéndome relajarme, bailar o simplemente disfrutar del momento, además, tiene la capacidad de unir a las personas puedo compartir mis canciones📀 favoritas♥️ con amigos🍻, asistir a conciertos o festivales donde disfrutar de la música en compañía de otros amantes de ella pudiendo crear vínculos siendo una forma de comunicación y conexión con los demás.
-
-Estas son algunas de las canciones que mas estoy escuchando últimamente: 
-
-<p >
-    <img src="./Imgs/spotify.png" alt="Logo" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
-  </a>
-</p>
-
-
