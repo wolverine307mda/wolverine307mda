@@ -5,18 +5,6 @@
 
 <p align="center">
     
-<a href="https://twitter.com/Mario_DA_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/mariio_dd/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://spotify.link/stHDwwfOJDb" target="_blank">
-<img src=https://img.shields.io/badge/spotify-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
-</a>
-
 <a href="mailto:wolverine.mda.307@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
