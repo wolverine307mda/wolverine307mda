@@ -16,9 +16,11 @@
 </p>
 
 <img src="./Imgs/gif.gif" width=5% align=right />
-<img src="./Imgs/guiño.webp" width=15% align=left /><h1>¡¡¡Saludos✌!!! Soy Mario de Domingo Álvarez 💥 </h1> 
+<h1>¡¡¡Saludos✌!!! Soy Mario de Domingo Álvarez 💥 </h1> 
+<img src="./Imgs/guiño.webp" width=15% align=left />
 
 ¡Hola! Soy Mario, estudiante de [**Desarrollo de Aplicaciones**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html), apasionado de la Música 🎵 y un fanático del cine🎬, especialmente de Marvel. Me encanta la magia del cine y cómo las películas pueden transportarnos a mundos imaginarios y emocionantes, y también, me fascina como la música es capaz de lograr que sintamos cosas indescriptibles.
+
 
 <img src="./Imgs/octogato.png" width=16% align=right />
     
