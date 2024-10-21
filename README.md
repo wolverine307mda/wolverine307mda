@@ -39,5 +39,25 @@ En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todo
 
 
 <p align=center>
-    <img src="./Imgs/Logo Blanco.png" width=50%/>
+    <img src="./Imgs/Logo Blanco.png" width=25%/>
+</p>
+
+### 💻Tecnologías que uso
+<p align=center>
+  <img src="./imgs/github.png" width=5% align=center />
+  <img src="./imgs/gitkraken.png" width=5% align=center />
+  <img src="./imgs/kotlin.png" width=5% align=center />
+  <img src="./imgs/html.png" width=5% align=center />
+  <img src="./imgs/css.png" width=5% align=center />
+  <img src="./imgs/mysql.png" width=5% align=center />
+  <img src="./imgs/sqlite.png" width=5% align=center />
+  <img src="./imgs/java.png" width=5% align=center />
+  <br>
+  <img src="./imgs/dockerLogo.png" width=5% align=center />
+  <img src="./imgs/postman.svg" width=6% align=center />
+  <img src="./imgs/springboot.png" width=5% align=center />
+  <img src="./imgs/postgres.png" width=5% align=center />
+  <img src="./imgs/mariadb.svg" width=5% align=center />
+  <img src="./imgs/bootstrap.png" width=5% align=center />
+  <img src="./imgs/javascript.png" width=5% align=center />
 </p>
