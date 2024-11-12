@@ -45,11 +45,6 @@ Como un verdadero friki de Marvel me fascina el [**UCM**](marvel.com)🕸️ y c
 
 En resumen, soy Mario, un estudiante de Primero de [**D.A.W.**](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) entusiasta en el entro de educacion superior [**IES Luis Vives**](https://www.iesluisvives.es/) en [**Leganes**](https://www.google.com/maps/place/Legan%C3%A9s,+Madrid/@40.3280856,-3.7661991,14z/data=!3m1!4b1!4m6!3m5!1s0xd418a1c0fc4eac9:0xd08f90220cc34cb!8m2!3d40.3319506!4d-3.7686545!16zL20vMDJ3MTU4?entry=ttu) y ademas soy un gran fanático del cine🍿. Estoy emocionado por las oportunidades que el campo de la tecnología🛰️ me ofrece, y espero poder combinar mis dos pasiones para crear proyectos web innovadores y emocionantes que brinden experiencias únicas a los fanáticos del cine📽️ y de Marvel.👊</p>
 
-
-<p align=center>
-    <img src="./Imgs/Logo Blanco.png" width=25%/>
-</p>
-
 ### 💻Tecnologías que uso
 <p align=center>
   <img src="./Imgs/github.png" width=5% align=center />
